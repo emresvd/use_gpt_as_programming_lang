@@ -1,0 +1,3 @@
+create a new string variable called hello
+set the value of the hello variable to "hello world"
+print the hello variable
