@@ -61,3 +61,41 @@ python main.py examples/bubble_sort/bubble_sort2
 ```
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
+
+<br><br>
+
+## fibonacci
+```
+create a function called fibonacci that takes n arguments
+create variable a and b inside fibonacci function and assign 0 and 1 respectively
+in the fibonacci function, print a as long as a is less than n, then set a to b and b to a+b
+give n a value of 100
+call the fibonacci function with n as the argument
+```
+or
+```
+function fibonacci n
+    a = 0
+    b = 1
+    while a < n
+        print a
+        a = b
+        b = a + b
+end fibonacci
+n = 100
+fibonacci n
+```
+or
+```
+print up to 100 fibonacci series
+```
+### run these codes:
+```bash
+python main.py examples/fibonacci/fibonacci1
+python main.py examples/fibonacci/fibonacci2
+python main.py examples/fibonacci/fibonacci3
+```
+### output:
+```
+0 1 1 2 3 5 8 13 21 34 55 89
+```
