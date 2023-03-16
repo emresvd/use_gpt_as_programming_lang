@@ -1,4 +1,4 @@
-# use_gpt_as_programming_lang
+# use gpt as programming language
 
 this is a project to use GPT as a programming language.
 
