@@ -99,3 +99,19 @@ python main.py examples/fibonacci/fibonacci3
 ```
 0 1 1 2 3 5 8 13 21 34 55 89
 ```
+
+<br><br>
+
+## arguments
+if you want to save the python code, use the following code
+```bash
+python main.py --save examples/fibonacci/fibonacci1
+```
+if you want to print the python code, use the following code
+```bash
+python main.py --print examples/fibonacci/fibonacci1
+```
+if you want to save and print the python code, use the following code
+```bash
+python main.py --save --print examples/fibonacci/fibonacci1
+```
