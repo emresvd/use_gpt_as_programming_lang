@@ -8,4 +8,8 @@ with open(path, "r") as f:
 
 u = ugptapl.UGPTapl(code)
 u.translate_to_python_code()
+
+if "--print" in sys.argv:
+    print(u.python_code)
+
 u.run()
