@@ -1,0 +1,5 @@
+create a function called fibonacci that takes n arguments
+create variable a and b inside fibonacci function and assign 0 and 1 respectively
+in the fibonacci function, print a as long as a is less than n, then set a to b and b to a+b
+give n a value of 100
+call the fibonacci function with n as the argument
