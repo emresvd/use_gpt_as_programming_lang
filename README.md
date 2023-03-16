@@ -18,3 +18,8 @@ print the hello variable
 ```bash
 python main.py examples/hello/hello1
 ```
+
+## output
+```
+hello world
+```
